@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     color: #ffffff;
     background-image: url('background.jpg');
-    background-repeat:repeat-x;
+    background-repeat:repeat;
     background-attachment:fixed;
     background-position: left top;
 }
